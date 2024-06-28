@@ -1,27 +1,28 @@
-# Calculator
+## _Calculator v2_
 
-Do your homework and... do the math! with this non-scientific calculator while listening to Vivaldi - Summer (Four Seasons)
+_An update to the [old](https://github.com/eimon96/Calculator) one. Requires Android 9.0 and up._
 
------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------
 
-# Build for Android 7 up to Android 12 - Tested on:
+Internet connection is required in order to use the currency converter. 
+
+API used: [fixer](https://fixer.io/) - _free plan, 100 requests/monthly._
+
+--------------------------------------------------------------------------------------------------
+
+<img src="https://i.imgur.com/GiK8bQC.jpg" width="180" height="370"> <img src="https://i.imgur.com/XYQTKQo.jpg" width="180" height="370"> 
+<img src="https://i.imgur.com/VKXfwa8.jpg" width="180" height="370"> <img src="https://i.imgur.com/O3YOIAc.jpg" width="180" height="370">
+
+--------------------------------------------------------------------------------------------------
+
+## _Tested on:_
 
 SAMSUNG GALAXY J6 (SM-J600FN 10 API 29)
 
 ALCATEL 1S (TCL 5024D_EEA 9.0 API 28)
 
------------------------------------------------------------------------------------------------------------------------------
+PIXEL 5 (12 API 31) (EMULATED)
 
-# PRIVACY POLICY
+--------------------------------------------------------------------------------------------------
 
-This app does not collect any data. It's a simple calculator application which everyone can use for free xD
-
------------------------------------------------------------------------------------------------------------------------------
-
-<img src="https://i.imgur.com/LnC34jA.jpg" width="180" height="370"> <img src="https://i.imgur.com/mePsi59.jpg" width="180" height="370"> <img src="https://i.imgur.com/iVcquBq.png" width="180" height="370">
-
-<img src="https://i.imgur.com/DW8Eu35.jpg" width="641" height="481">
-
-# Play Store Download Link
-
-https://play.google.com/store/apps/details?id=com.e.calculator
+_Music by [NightOwle](https://soundcloud.com/nightowle/defect) :green_heart: (aka me :mask:)_
