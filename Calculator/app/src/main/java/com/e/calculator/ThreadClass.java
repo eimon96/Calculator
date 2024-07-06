@@ -1,4 +1,4 @@
-//package com.eimon.calculator;
+//package com.e.calculator;
 //
 //import android.widget.ArrayAdapter;
 //import android.widget.Spinner;

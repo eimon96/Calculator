@@ -20,7 +20,7 @@ public class MediaPlayerClass
     {
         try
         {
-            Uri mUri = Uri.parse("android.resource://com.eimon.calculator/" + R.raw.nightowle);
+            Uri mUri = Uri.parse("android.resource://com.e.calculator/" + R.raw.nightowle);
             mediaPlayer = new MediaPlayer();
             mediaPlayer.setAudioAttributes(
                     new AudioAttributes.Builder()
