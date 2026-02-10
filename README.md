@@ -1,6 +1,6 @@
 ## _Calculator v2_
 
-_An update to the [old](https://github.com/eimon96/Calculator) one. Requires Android 9.0 and up._
+_An update to the [old](https://github.com/eimon96/Calculator/tree/main) one. Requires Android 9.0 and up._
 
 --------------------------------------------------------------------------------------------------
 
