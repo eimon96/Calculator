@@ -2,6 +2,8 @@
 
 _An update to the [old](https://github.com/eimon96/Calculator/tree/main) one. Requires Android 9.0 and up._
 
+_Currency converter is NOT included in PlayStore version._
+
 --------------------------------------------------------------------------------------------------
 
 Internet connection is required in order to use the currency converter. 
